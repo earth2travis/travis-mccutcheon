@@ -43,6 +43,11 @@ You may have to wait on DNS propagation for 24 hours
 - Link site to a Git repository in Netlify
 - Deploy site
 
+### Update Content and Design
+
+- Remove default styles
+- Import Google Fonts
+
 ## Technologies
 
 - [React](https://reactjs.org/)
