@@ -32,6 +32,8 @@ gatsby build
 
 ### Enable automatic TLS certificate (HTTPS) in Netlify
 
+You may have to wait on DNS propagation for 24 hours
+
 - Goto Domain management
 - Verify DNS configuration
 - Provision Let’s Encrypt certificate
