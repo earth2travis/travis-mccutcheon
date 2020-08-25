@@ -21,7 +21,8 @@ git push -u origin master
 gatsby build
 ```
 
-Drag and drop public folder into Netlify Sites interface
+- Drag and drop public folder into Netlify Sites interface
+- Change site name
 
 ### Configure travismccutcheon.com domain
 
