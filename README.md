@@ -38,6 +38,11 @@ You may have to wait on DNS propagation for 24 hours
 - Verify DNS configuration
 - Provision Let’s Encrypt certificate
 
+### Setup Continuous Deployment
+
+- Link site to a Git repository in Netlify
+- Deploy site
+
 ## Technologies
 
 - [React](https://reactjs.org/)
