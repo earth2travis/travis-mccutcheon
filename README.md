@@ -50,11 +50,19 @@ You may have to wait on DNS propagation for 24 hours
 - Remove default styles
 - Import Google Fonts
 - Create a palette with [Coolors](https://coolors.co/generate)
+- Add navigation
+
+### Add Styled Components
+
+```sh
+npm install --save styled-components
+```
 
 ## Technologies
 
 - [React](https://reactjs.org/)
 - [Gatsby](https://www.gatsbyjs.com/)
+- [styled-components](https://styled-components.com/)
 
 ## Tools
 
