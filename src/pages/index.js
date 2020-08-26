@@ -8,7 +8,10 @@ const IndexPage = () => (
     <SEO title="Home" />
     <div className="Hero">
       <div className="HeroGroup">
-        <h1>Welcome to the personal webpage of Travis McCutcheon</h1>
+        <h1>Travis McCutcheon</h1>
+        <h2>Defining Value Discovery</h2>
+        <h2>Creating Innovation Culture</h2>
+        <h2>Transforming Product Development</h2>
         <p>This site is built with Gatsby.</p>
         <a href="articles">View Articles</a>
       </div>
