@@ -1,5 +1,7 @@
 # Travis McCutcheon
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e1f58459-cffc-4f57-85a0-11231e9fcaeb/deploy-status)](https://app.netlify.com/sites/travis-mccutcheon/deploys)
+
 ## Steps
 
 ### Create Gatsby Default Starter
