@@ -47,6 +47,7 @@ You may have to wait on DNS propagation for 24 hours
 
 - Remove default styles
 - Import Google Fonts
+- Create a palette with [Coolors](https://coolors.co/generate)
 
 ## Technologies
 
