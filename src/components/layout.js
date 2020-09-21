@@ -11,6 +11,12 @@ import { useStaticQuery, graphql } from "gatsby"
 
 import "./layout.css"
 import Header from "./header"
+import styled from "styled-components"
+
+const Footer = styled.footer`
+  padding-left: 50px;
+  padding-bottom: 20px;
+`
 
 const Layout = ({ children }) => {
   const data = useStaticQuery(graphql`
@@ -28,13 +34,13 @@ const Layout = ({ children }) => {
       <Header siteTitle={data.site.siteMetadata.title} />
       <div>
         <main>{children}</main>
-        <footer>
+        <Footer>
           Built with{" "}
           <span role="img" aria-label="heart emoji">
             ❤️
           </span>{" "}
           in Austin
-        </footer>
+        </Footer>
       </div>
     </>
   )
